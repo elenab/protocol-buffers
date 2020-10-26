@@ -1,2 +1,2 @@
-# protocol-buffers
+## Protocol buffers
 Google Protobuf with examples and exercises.
